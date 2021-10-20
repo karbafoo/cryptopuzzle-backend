@@ -1,0 +1,106 @@
+{
+    "Peaces": [
+        {
+            "Id": "Round_Finder_0",
+            "Url": "Round_Finder_0.png",
+            "Center": {
+                "x": 249,
+                "y": 820
+            },
+            "Dim": {
+                "x": 172,
+                "y": 797,
+                "w": 139,
+                "h": 45
+            }
+        },
+        {
+            "Id": "Round_Finder_1",
+            "Url": "Round_Finder_1.png",
+            "Center": {
+                "x": 255,
+                "y": 758
+            },
+            "Dim": {
+                "x": 158,
+                "y": 737,
+                "w": 167,
+                "h": 42
+            }
+        },
+        {
+            "Id": "Round_Finder_2",
+            "Url": "Round_Finder_2.png",
+            "Center": {
+                "x": 506,
+                "y": 733
+            },
+            "Dim": {
+                "x": 438,
+                "y": 704,
+                "w": 139,
+                "h": 91
+            }
+        },
+        {
+            "Id": "Round_Finder_3",
+            "Url": "Round_Finder_3.png",
+            "Center": {
+                "x": 749,
+                "y": 685
+            },
+            "Dim": {
+                "x": 689,
+                "y": 657,
+                "w": 122,
+                "h": 59
+            }
+        },
+        {
+            "Id": "Round_Finder_4",
+            "Url": "Round_Finder_4.png",
+            "Center": {
+                "x": 264,
+                "y": 686
+            },
+            "Dim": {
+                "x": 204,
+                "y": 657,
+                "w": 121,
+                "h": 59
+            }
+        },
+        {
+            "Id": "Round_Finder_5",
+            "Url": "Round_Finder_5.png",
+            "Center": {
+                "x": 506,
+                "y": 490
+            },
+            "Dim": {
+                "x": 360,
+                "y": 439,
+                "w": 293,
+                "h": 107
+            }
+        },
+        {
+            "Id": "Round_Finder_6",
+            "Url": "Round_Finder_6.png",
+            "Center": {
+                "x": 507,
+                "y": 304
+            },
+            "Dim": {
+                "x": 346,
+                "y": 187,
+                "w": 324,
+                "h": 248
+            }
+        }
+    ],
+    "Name": "Round_Finder",
+    "HoledUrl": "Round_Finder_holed.png",
+    "Url": "Round_Finder.png",
+    "BaseUrl": "https://gateway.pinata.cloud/ipfs/QmShqhZzwkoEM1wcrWjG7HTvPUgvBaknRqaFhBUNMvis1T/nfts/"
+}
