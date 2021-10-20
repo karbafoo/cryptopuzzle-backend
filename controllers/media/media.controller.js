@@ -7,7 +7,7 @@ const scriptFilename = path.join(__dirname, '../../Peacer/app.py');
 
 const onMakePuzzle = async ({name, url}) => {
     return new Promise((resolve, reject) => {
-        const pythonProcess = spawn('python', [scriptFilename, name]);
+        const pythonProcess = spawn('sudo python', [scriptFilename, name]);
         pythonProcess.stdout.on('data', (data) => {
             const response = data.toString();
             if (
